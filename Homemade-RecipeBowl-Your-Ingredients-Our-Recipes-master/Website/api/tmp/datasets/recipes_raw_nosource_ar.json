@@ -1,0 +1,35 @@
+{
+    "recipe1": {
+        "title": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "eggs",
+            "parmesan cheese",
+            "bacon",
+            "black pepper"
+        ]
+    },
+    "recipe2": {
+        "title": "Vegetable Fried Rice",
+        "ingredients": [
+            "rice",
+            "carrots",
+            "peas",
+            "soy sauce",
+            "vegetable oil",
+            "onions"
+        ]
+    },
+    "recipe3": {
+        "title": "Tomato Soup",
+        "ingredients": [
+            "tomatoes",
+            "onions",
+            "garlic",
+            "olive oil",
+            "basil",
+            "salt",
+            "pepper"
+        ]
+    }
+}
